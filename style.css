@@ -1,0 +1,14 @@
+body{
+    background-image: url('https://img.freepik.com/free-photo/galaxy-night-landscape_23-2148895320.jpg?w=2000&t=st=1670941520~exp=1670942120~hmac=3883d6df8df7aaddaa59cb448979241d53ebe9d6d7070b74e244b58938fac238');
+     background-position: center; 
+    /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+}
+.hi h4{
+    font-size: 52px;
+}
+#c{
+    background-color: hsla(226,0%,0%,0.1);
+    
+    /* backdrop-filter: saturate(700%) blur(10px); */
+}
